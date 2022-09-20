@@ -1,3 +1,4 @@
+# The file should have been named random.py
 import random
 
 num1 = random.randint(1,10)
