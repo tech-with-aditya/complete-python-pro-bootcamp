@@ -46,7 +46,7 @@ travel_log = {
   "Germany": {"cities_visited": ["Berlin", "Hamburg", "Stuttgart"], "total_visits": 5},
 }
 
-#Nesting Dictionaries in Lists
+# Nesting Dictionaries in Lists
 
 travel_log = [
 {
